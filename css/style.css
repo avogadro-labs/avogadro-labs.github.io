@@ -11,7 +11,7 @@
 }
 
 html{
-    font-size: 75.5%;
+    font-size: 90%;
 }
 
 body{
@@ -22,7 +22,7 @@ body{
     margin: 2rem;
     padding-top: 6rem;
     display: inline-block;
-    font-size: 3.5rem;
+    font-size: 4rem;
     color: #002e5f;
     position: relative;
     letter-spacing: .2rem;
